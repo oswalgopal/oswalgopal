@@ -13,7 +13,7 @@
 <!-- <h1 align="center"> My Skills </h1> -->
 
 <br />
-<center>
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=oswalgopal&layout=compact&hide=html&theme=jolly&count_private=true&show_icons=true"
     alt="oswalgopal"/>
-</center>
+</p>
