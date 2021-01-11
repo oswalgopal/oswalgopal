@@ -15,7 +15,7 @@
 
 <br />
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=oswalgopal&layout=compact&hide=html&theme=jolly&count_private=true&show_icons=true"
+    <img align="top" src="https://github-readme-stats.vercel.app/api?username=oswalgopal&layout=compact&hide=html&theme=jolly&count_private=true&show_icons=true"
     alt="oswalgopal"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oswalgopal&theme=jolly&count_private=true&show_icons=true" alt="languages">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oswalgopal&theme=jolly&count_private=true&show_icons=true" alt="languages">
 </p>
