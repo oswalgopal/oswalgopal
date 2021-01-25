@@ -19,7 +19,7 @@
 <a href="https://www.linkedin.com/in/oswalgopal">
     <img align="center" src="https://pngmind.com/wp-content/uploads/2019/08/Linkedin-Png.png" width="80" style="background-color: tranparent;">
 </a>
-<a href="tel:7024415907">
+<a href="tel: 7024415907">
     <img align="center" src="https://i.pinimg.com/originals/22/83/0f/22830f7ff21eb0e9700e0993076dc006.png" width="50" style="background-color: tranparent; padding-left: 25px">
 </a>
 
