@@ -29,6 +29,6 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=oswalgopal&repo=LazyCoder&theme=dark" />
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=oswalgopal&repo=Bing-Search-Engine-In-React&theme=dark" />
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=oswalgopal&repo=flaskApp&theme=dark" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=oswalgopal&repo=LazyCoder&theme=dark" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=oswalgopal&repo=LazyCoder&theme=dark" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=oswalgopal&repo=LazyCoder&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=oswalgopal&repo=SMS-auto-Reader-in-ionic-&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=oswalgopal&repo=get-Github-Detail&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=oswalgopal&repo=voice-to-text-react-native&theme=dark" />
