@@ -13,25 +13,26 @@
 - ⚡ Fun fact: **Don't fix problems fix your thinking problems will be fixed by themselves**
 
 <h1 align="center"> Connect Me </h1>
-<div align="center">
-<a href="https://github.com/oswalgopal" target="_blank" style="font-size:40px; color: white; text-decoration:none;">
-    <i class="fab fa-github-square"></i>
-</a>
-<a href="mailto:gploswal@gmail.com" target="_blank"
-style="font-size:40px; color: white; text-decoration:none;">
-    <i class="fas fa-envelope-square"></i>
-</a>
-<a href="https://www.linkedin.com/in/oswalgopal/" target="_blank"
-style="font-size:40px; color: white; text-decoration:none;">
-    <i class="fab fa-linkedin"></i>
-</a>
-<a href="https://api.whatsapp.com/send?phone=+917024415907" target="_blank"
-style="font-size:40px; color: white; text-decoration:none;">
-    <i class="fab fa-whatsapp-square"></i>
-</a>
-
-
-<div>
+<p align="center" style="display: flex;
+justify-content: center; align-items: center;"> 
+    <a href="https://github.com/oswalgopal" target="_blank" style="font-size: 40px;
+    display: flex;background-color: white; justify-content: center; align-items: center; width: 40px; height: 40px; border-radius: 5px;
+    margin: 5px; text-decoration:none;">
+        <img  src="./github-brands.svg" width="30px" height="30px" />
+    </a>
+    <a href="mailto:gploswal@gmail.com" target="_blank"
+    style="font-size: 40px;background-color: white; display: flex; justify-content: center; align-items: center; width: 40px; height: 40px; border-radius: 5px;text-decoration:none;margin: 5px;">
+        <img  src="./envelope-square-solid.svg" width="30px" height="30px"/>
+    </a>
+    <a href="https://www.linkedin.com/in/oswalgopal/" target="_blank"
+    style="font-size: 40px;background-color: white; display: flex; justify-content: center; align-items: center; width: 40px; height: 40px; border-radius: 5px;text-decoration:none;margin: 5px;">
+        <img  src="./linkedin-brands.svg" width="30px" height="30px"/>
+    </a>
+    <a href="https://api.whatsapp.com/send?phone=+917024415907" target="_blank"
+    style="font-size: 40px;background-color: white; display: flex; justify-content: center; align-items: center; width: 40px; height: 40px; border-radius: 5px;text-decoration:none;margin: 5px;">
+        <img  src="./whatsapp-square-brands.svg" width="30px" height="30px"/>
+    </a>
+<p]>
 <br />
 
 <h1 align="center"> My Skills </h1>
