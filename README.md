@@ -38,17 +38,19 @@ justify-content: center; align-items: center;">
 <h1 align="center"> My Skills </h1>
 <!-- <img align="top" src="./Skills.png"
     alt="skills"/> -->
-<img align="top" src="./skills/react.png" width="100px">
-<img align="top" src="./skills/react native.png" width="100px">
-<img align="top" src="./skills/cpp.png" width="100px">
-<img align="top" src="./skills/java.png" width="100px">
-<img align="top" src="./skills/angular.png" width="100px">
-<img align="top" src="./skills/ionic.png" width="100px">
-<img align="top" src="./skills/node.png" width="100px">
-<img align="top" src="./skills/AI.png" width="100px">
-<img align="top" src="./skills/PS.png" width="100px">
-<img align="top" src="./skills/mongodb.png" width="100px">
-<img align="top" src="./skills/sql.png" width="100px">
+<div>
+    <img align="top" src="./skills/react.png" width="100px">
+    <img align="top" src="./skills/react native.png" width="100px">
+    <img align="top" src="./skills/cpp.png" width="100px">
+    <img align="top" src="./skills/java.png" width="100px">
+    <img align="top" src="./skills/angular.png" width="100px">
+    <img align="top" src="./skills/ionic.png" width="100px">
+    <img align="top" src="./skills/node.png" width="100px">
+    <img align="top" src="./skills/AI.png" width="100px">
+    <img align="top" src="./skills/PS.png" width="100px">
+<!--     <img align="top" src="./skills/mongodb.png" width="100px">
+    <img align="top" src="./skills/sql.png" width="100px"> -->
+</div
 <br />
 <br />
 <br />
