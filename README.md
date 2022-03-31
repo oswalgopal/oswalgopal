@@ -59,6 +59,9 @@ justify-content: center; align-items: center;">
     alt="oswalgopal"/>
     <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oswalgopal&theme=jolly&count_private=true&show_icons=true" alt="languages">
 </p>
+<p align="center>
+    <img src="https://raw.githubusercontent.com/oswalgopal/oswalgopal/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
 
 
 
