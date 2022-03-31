@@ -38,7 +38,7 @@ justify-content: center; align-items: center;">
 <h1 align="center"> My Skills </h1>
 <!-- <img align="top" src="./Skills.png"
     alt="skills"/> -->
-<div>
+<div align="center">
     <img align="top" src="./skills/react.png" width="100px">
     <img align="top" src="./skills/react native.png" width="100px">
     <img align="top" src="./skills/cpp.png" width="100px">
@@ -54,10 +54,10 @@ justify-content: center; align-items: center;">
 <br />
 <br />
 <br />
-<p>
+<p align="center">
     <img align="top" src="https://github-readme-stats.vercel.app/api?username=oswalgopal&layout=compact&hide=html&theme=jolly&count_private=true&show_icons=true"
     alt="oswalgopal"/>
-    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oswalgopal&theme=jolly&count_private=true&show_icons=true" alt="languages">
+<!--     <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oswalgopal&theme=jolly&count_private=true&show_icons=true" alt="languages"> -->
 </p>
 <p align="center">
   <img src="https://github.com/oswalgopal/oswalgopal/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
